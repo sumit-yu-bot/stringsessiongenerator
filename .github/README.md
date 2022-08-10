@@ -3,10 +3,10 @@
 </p>
 
 ### 🥵 sᴛʀɪɴɢ ɢᴇɴᴇʀᴀᴛᴏʀ ʙᴏᴛ
-  <a href="https://github.com/AnonymousR1025"><img alt="Website" src="https://img.shields.io/badge/𝝙𝗡𝗢𝗡𝗬𝗠𝗢𝗨𝗦-blue"></a>
+  <a href="https://github.com/issu-op"><img alt="Website" src="https://img.shields.io/badge/𝐒𝐔𝐌𝐈𝐓-blue"></a>
  
-[![Stars](https://img.shields.io/github/stars/AnonymousR1025/StringGenBot?style=social)](https://github.com/AnonymousR1025/StringGenBot/stargazers)
-  [![Forks](https://img.shields.io/github/forks/AnonymousR1025/StringGenBot?style=social)](https://github.com/AnonymousR1025/StringGenBot/fork)
+[![Stars](https://img.shields.io/github/stars//issu-op/stringgeneratorbot?style=social)](https://github.com//issu-op/stringgeneratorbot/stargazers)
+  [![Forks](https://img.shields.io/github/forks//issu-op/stringgeneratorbot?style=social)](https://github.com//issu-op/stringgeneratorbot/fork)
 
 ### 🛠️ ʟᴀɴɢᴜᴀɢᴇs ᴀɴᴅ ᴛᴏᴏʟs
 
@@ -25,13 +25,13 @@
 
 ### 🚀 ᴅᴇᴘʟᴏʏ ᴛᴏ ʜᴇʀᴏᴋᴜ
   
-  <p align="center"><a href="https://heroku.com/deploy?template=https://github.com/AnonymousR1025/StringGenBot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+  <p align="center"><a href="https://heroku.com/deploy?template=https://github.com//issu-op/stringgeneratorbot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 
 
 ### 🙄 ᴅᴇᴍᴏ/ᴛᴇsᴛ ʙᴏᴛ
   
-  [sᴛʀɪɴɢ ʙᴏᴛ 🍑](https://telegram.me/StringFatherBot)
+  [sᴛʀɪɴɢ ʙᴏᴛ 🍑](https://telegram.me/stringfinderbot)
 
 ```
 Atleast Give A Star and Fork The Repo 🖤
@@ -45,6 +45,7 @@ Atleast Give A Star and Fork The Repo 🖤
 
 
 ## 💖 ᴄʀᴇᴅɪᴛs
+- » [𝐒𝐔𝐌𝐈𝐓](https://github.com/issu-op)
 - » [𝝙𝗡𝗢𝗡𝗬𝗠𝗢𝗨𝗦](https://github.com/AnonymousR1025)
 - » [Stark](https://github.com/StarkBotsIndustries)
 - » [Pyrogram Devs](https://github.com/pyrogram) for [Pyrogram](https://github.com/pyrogram/pyrogram)
