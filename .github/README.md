@@ -3,7 +3,7 @@
 </p>
 
 ### 🥵 sᴛʀɪɴɢ ɢᴇɴᴇʀᴀᴛᴏʀ ʙᴏᴛ
-  <a href="https://github.com/issu-op"><img alt="Website" src="https://img.shields.io/badge/𝐒𝐔𝐌𝐈𝐓-blue"></a>
+  <a href="https://github.com/issu-op"><img alt="Website" src="https://img.shields.io/badge/𝐒𝐔𝐌𝐈𝐓-red"></a>
  
 [![Stars](https://img.shields.io/github/stars//issu-op/stringgeneratorbot?style=social)](https://github.com//issu-op/stringgeneratorbot/stargazers)
   [![Forks](https://img.shields.io/github/forks//issu-op/stringgeneratorbot?style=social)](https://github.com//issu-op/stringgeneratorbot/fork)
