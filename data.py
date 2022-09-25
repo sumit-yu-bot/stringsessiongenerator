@@ -19,6 +19,6 @@ Hᴇʏ {},
 Tʜɪs ɪs {},
 Aɴ ᴏᴩᴇɴ sᴏᴜʀᴄᴇᴅ sᴛʀɪɴɢ sᴇssɪᴏɴ ɢᴇɴᴇʀᴀᴛᴏʀ ʙᴏᴛ, ᴡʀɪᴛᴛᴇɴ ɪɴ ᴩʏᴛʜᴏɴ ᴡɪᴛʜ ᴛʜᴇ ʜᴇʟᴩ ᴏғ ᴩʏʀᴏɢʀᴀᴍ.
 
-Sᴏᴜʀᴄᴇ : [ɢɪᴛʜᴜʙ](https://github.com/issu-op/stringgeneratorbot)
+Sᴏᴜʀᴄᴇ : [ɢɪᴛʜᴜʙ](https://github.com/isu-op-op/stringsessiongenerator)
 Mᴀᴅᴇ ᴡɪᴛʜ 🖤 ʙʏ : [ѕυмιт](https://t.me/Kya_rakhu_smjh_nhi_aa_rha) !
     """
