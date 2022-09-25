@@ -3,10 +3,10 @@
 </p>
 
 ### 🥵 sᴛʀɪɴɢ ɢᴇɴᴇʀᴀᴛᴏʀ ʙᴏᴛ
-  <a href="https://github.com/issu-op"><img alt="Website" src="https://img.shields.io/badge/𝐒𝐔𝐌𝐈𝐓-red"></a>
+  <a href="https://github.com/isu-op-op"><img alt="Website" src="https://img.shields.io/badge/𝐒𝐔𝐌𝐈𝐓-red"></a>
  
-[![Stars](https://img.shields.io/github/stars//issu-op/stringgeneratorbot?style=social)](https://github.com//issu-op/stringgeneratorbot/stargazers)
-  [![Forks](https://img.shields.io/github/forks//issu-op/stringgeneratorbot?style=social)](https://github.com//issu-op/stringgeneratorbot/fork)
+[![Stars](https://img.shields.io/github/stars//issu-op/stringgeneratorbot?style=social)](https://github.com//isu-op-op/stringgeneratorbot/stargazers)
+  [![Forks](https://img.shields.io/github/forks//issu-op/stringgeneratorbot?style=social)](https://github.com//isu-op-op/stringgeneratorbot/fork)
 
 ### 🛠️ ʟᴀɴɢᴜᴀɢᴇs ᴀɴᴅ ᴛᴏᴏʟs
 
@@ -25,7 +25,7 @@
 
 ### 🚀 ᴅᴇᴘʟᴏʏ ᴛᴏ ʜᴇʀᴏᴋᴜ
   
-  <p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/issu-op/stringgeneratorbot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+  <p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/isu-op-op/stringgeneratorbot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 
 
@@ -45,7 +45,7 @@ Atleast Give A Star and Fork The Repo 🖤
 
 
 ## 💖 ᴄʀᴇᴅɪᴛs
-- » [𝐒𝐔𝐌𝐈𝐓](https://github.com/issu-op)
+- » [𝐒𝐔𝐌𝐈𝐓](https://github.com/isu-op-op)
 - » [𝝙𝗡𝗢𝗡𝗬𝗠𝗢𝗨𝗦](https://github.com/AnonymousR1025)
 - » [Stark](https://github.com/StarkBotsIndustries)
 - » [Pyrogram Devs](https://github.com/pyrogram) for [Pyrogram](https://github.com/pyrogram/pyrogram)
