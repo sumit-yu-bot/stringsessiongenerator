@@ -1,4 +1,5 @@
-from env import MUST_JOIN
+from config import MUST_JOIN
+
 from pyrogram import Client, filters
 from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton, Message
 from pyrogram.errors import ChatAdminRequired, UserNotParticipant, ChatWriteForbidden
@@ -6,7 +7,7 @@ from pyrogram.errors import ChatAdminRequired, UserNotParticipant, ChatWriteForb
 
 @Client.on_message(filters.incoming & filters.private, group=-1)
 async def must_join_channel(bot: Client, msg: Message):
-    if not MUST_JOIN:  # Not compulsory
+    if not MUST_JOIN:
         return
     try:
         try:
@@ -18,10 +19,15 @@ async def must_join_channel(bot: Client, msg: Message):
                 chat_info = await bot.get_chat(MUST_JOIN)
                 link = chat_info.invite_link
             try:
-                await msg.reply_photo(photo="https://te.legra.ph/file/9d08e3b2d37843e1b65e8.jpg", caption=f"» ᴀᴄᴄᴏʀᴅɪɴɢ ᴛᴏ ᴍʏ ᴅᴀᴛᴀʙᴀsᴇ ʏᴏᴜ'ᴠᴇ ɴᴏᴛ ᴊᴏɪɴᴇᴅ ᴍʏ [ᴄʜᴀɴɴᴇʟ](https://t.me/ab_sumit) ʏᴇᴛ, ɪғ ʏᴏᴜ ᴡᴀɴᴛ ᴛᴏ ᴜsᴇ ᴍᴇ ᴛʜᴇɴ ᴊᴏɪɴ ᴍʏ [ᴄʜᴀɴɴᴇʟ](https://t.me/ab_sumit) ᴀɴᴅ sᴛᴀʀᴛ ᴍᴇ ᴀɢᴀɪɴ !",
-                    reply_markup=InlineKeyboardMarkup([
-                        [InlineKeyboardButton("🥺 ᴄʜᴀɴɴᴇʟ 🥺", url=f"https://t.me/ab_sumit")]
-                    ])
+                await msg.reply_photo(
+                    photo="https://te.legra.ph/file/9d08e3b2d37843e1b65e8.jpg", caption=f"» ᴀᴄᴄᴏʀᴅɪɴɢ ᴛᴏ ᴍʏ ᴅᴀᴛᴀʙᴀsᴇ ʏᴏᴜ'ᴠᴇ ɴᴏᴛ ᴊᴏɪɴᴇᴅ [ꜱᴜᴍɪᴛ]({link}) ʏᴇᴛ, ɪғ ʏᴏᴜ ᴡᴀɴᴛ ᴛᴏ ᴜsᴇ ᴍᴇ ᴛʜᴇɴ ᴊᴏɪɴ [ᴄʜᴀɴɴᴇʟ]({link}) ᴀɴᴅ sᴛᴀʀᴛ ᴍᴇ ᴀɢᴀɪɴ !",
+                    reply_markup=InlineKeyboardMarkup(
+                        [
+                            [
+                                InlineKeyboardButton("</> ᴛᴡɪɴᴋʟᴇ ꜱᴛᴀʀᴢ", url=link),
+                            ]
+                        ]
+                    )
                 )
                 await msg.stop_propagation()
             except ChatWriteForbidden:
